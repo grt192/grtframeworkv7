@@ -1,0 +1,8 @@
+##angle presets
+shooterDown,0
+cornerAngle,23.5
+anglePyramidBackCenter,25
+anglePyramidMiddleCenter,26
+anglePyramidFrontPreset,42
+anglePyramidCorner, 23.0
+angleCenterline,17.5

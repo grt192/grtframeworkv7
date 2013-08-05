@@ -1,0 +1,4 @@
+leftDT1Scale,-1.0
+leftDT2Scale,-1.0
+rightDT1Scale,1.0
+rightDT2Scale,1.0

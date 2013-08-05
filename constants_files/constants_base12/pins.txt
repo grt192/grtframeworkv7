@@ -1,0 +1,10 @@
+leftDT1,9
+leftDT2,10
+rightDT1,1
+rightDT2,2
+
+encoderLeftA,1
+encoderLeftB,2
+
+encoderRightA,3
+encoderRightB,4

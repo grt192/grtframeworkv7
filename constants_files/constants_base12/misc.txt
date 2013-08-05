@@ -1,0 +1,2 @@
+robot,2012
+vision,1.0

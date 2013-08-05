@@ -1,0 +1,45 @@
+#IMPORTANT: for pin values, modify robots to fit the pins, not vice versa (to keep both omegas identical).
+#ENCODERS: Green wire is pin A, yellow is pin B, A should come numerically before B.
+
+##Drivetrain motors
+leftDT1,3
+leftDT2,4
+rightDT1,1
+rightDT2,2
+##Drivetrain solenoids
+leftShifter,6
+rightShifter,5
+##Drivetrain sensors
+encoderLeftA,9
+encoderLeftB,10
+encoderRightA,13
+encoderRightB,14
+
+##Compressor
+compressorSwitch,1
+compressorRelay,1
+
+##Shooter actuators
+shooter1,9
+shooter2,10
+shooterRaiser,8
+shooterFeeder,8
+
+##Shooter sensors
+shooterLowerLimit,2
+shooterEncoderA,11
+shooterEncoderB,12
+shooterPotentiometer,2
+
+##Belt motor
+belts,7
+
+#Pickup motors
+rollerMotor,5
+raiserMotor,6
+##Pickup sensors
+pickUpUpperLimit,7
+pickUpLowerLimit,8
+
+#Climber solenoid
+climberSolenoid,7

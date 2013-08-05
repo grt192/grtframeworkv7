@@ -1,0 +1,8 @@
+robot,2013.2
+
+#Console/file output is off in competition mode
+consoleOutput,0
+fileLogging,0
+
+adjustDividerUp,2.0
+adjustDividerDown,-1.0
