@@ -1,4 +1,4 @@
-GRT Framework v6
+GRT Framework v7
 ================
 
 GRTFramework is an asynchronous, event-driven framework built on top of [WPILibJ](http://firstforge.wpi.edu/sf/projects/wpilib), which is provided by FIRST and includes a host of useful low-level hardware classes.
