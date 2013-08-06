@@ -1,4 +1,4 @@
-MIDlet-Name: Base2012-redesign
+MIDlet-Name: GRTFramework v7
 MIDlet-Version: 1.0.0
 MIDlet-Vendor: FIRST
 MIDlet-1: MainRobot, , deploy.MainRobot

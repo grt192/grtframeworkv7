@@ -1,6 +1,0 @@
-file:///constants_omegabot/auto.txt
-file:///constants_omegabot/mechconstants.txt
-file:///constants_omegabot/misc.txt
-file:///constants_omegabot/pid.txt
-file:///constants_omegabot/pins.txt
-file:///constants_omegabot/presets.txt
